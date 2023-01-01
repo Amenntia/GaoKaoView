@@ -48,8 +48,7 @@ export default {
     myWorldCloud,
     myLineChart,
     mySelectMenu
-   },
-
+    },
     data: function () {
       return {
       }
